@@ -1,4 +1,4 @@
-Prueba tecnica de Avila teck
+Prueba tecnica de Avila tek
 
 API sencilla que tiene por requerimientos:
 
